@@ -1,2 +1,5 @@
 # Handiko Gesang Anugrah Sejati, S.T.
-A brief description of my self and why you should hire me
+**RF Telemetry, Microcontroller, & Electronics Enthusiast**
+
+## Contact Me
+Please contact me by e-mail : handikogesang(at)gmail.com
