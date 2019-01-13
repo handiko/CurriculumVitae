@@ -38,7 +38,7 @@ I learn this skill mainly for supporting the projects above and as a part of my 
 
 **GitHub**
 
-I am using this tool to document my porjects since min-2018. [GitHub profile](https://github.com/handiko)
+I am using this tool to document my porjects since mid-2018. [GitHub profile](https://github.com/handiko)
 
 ## Education
 **Bachelor of Engineering, Engineering Physics, Universitas Gadjah Mada**
