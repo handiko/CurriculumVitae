@@ -17,7 +17,7 @@ I learn this skill mainly by autodidact and through the instrumentation study gr
 I learn this skill while I am included in Telemetry study group. I am comfortably working on VHF and UHF radio spectrum and also using HF spectrum as a part of my hobby. Few of my projects:
 * VHF Telemetry Shield for Arduino UNO: [GitHub page](https://github.com/handiko/Dorji-TX-Shield)
 * VHF Low Noise Amplifier with a Band Pass Filter: [GitHub page](https://github.com/handiko/VHF-LNA)
-* 4 elements VHF antenna:
+* 4 elements VHF antenna: [GitHub page](https://github.com/handiko/Yagi-4E-144)
 * I contribute to the YE2A Contest Team (Grobogan, Central Java) as a technical team and operator.
 
 ### **Software Defined Radio (SDR) & GNU Radio**
