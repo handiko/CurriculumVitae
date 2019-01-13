@@ -23,8 +23,8 @@ I learn this skill while I am included in Telemetry study group. I am comfortabl
 **Software Defined Radio (SDR) & GNU Radio**
 
 I learn this skill mainly for rapid prototyping and to built an SDR application on receiving telemetry for Sensor and Telecontrolling System Lab. Few of my projects:
-* gr-Meteor-M2, an SDR application on GNU Radio for receiving and demodulating Russian Satellite weather image transmission using a low cost SDR dongle: [published here](https://www.hackster.io/handiko/receiving-russian-s-satellite-weather-image-from-space-d4618d) or [here](https://labsdl.wordpress.com/2018/09/17/receiving-qpsk-signal-from-space/)
-* Receiving Seoul Radio Transmission using a Low Cost SDR dongle and GNU Radio: [published here](https://labsdl.wordpress.com/2018/08/20/receiving-post-processing-hlg-seoul-radio-using-rtl-sdr-and-gnu-radio/)
+* Receiving and demodulating weather image transmission from a Russian satellite using a low cost SDR dongle: [published here](https://www.hackster.io/handiko/receiving-russian-s-satellite-weather-image-from-space-d4618d) or [here](https://labsdl.wordpress.com/2018/09/17/receiving-qpsk-signal-from-space/)
+* Receiving Radio Transmission from Seoul - South Korea using a Low Cost SDR dongle and GNU Radio: [published here](https://labsdl.wordpress.com/2018/08/20/receiving-post-processing-hlg-seoul-radio-using-rtl-sdr-and-gnu-radio/)
 * gr-Merapi, an SDR application on GNU Radio platform for receiving and decoding Mt. Merapi telemetry: [GitHub page](https://github.com/handiko/gr-Merapi)
 * gr-APRS, an SDR application on GNU Radio for receiving and decoding APRS packets: [GitHub page](https://github.com/handiko/gr-Merapi)
 
