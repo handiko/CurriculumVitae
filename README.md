@@ -41,6 +41,9 @@ I learn this skill mainly for supporting the projects above and as a part of my 
 I am using this tool to document my porjects since min-2018. [GitHub profile](https://github.com/handiko)
 
 ## Education
+**Bachelor of Engineering, Engineering Physics, Universitas Gadjah Mada**
+* GPA: 3,06
+* Final Assignment: **Design and Development of the Multi Mode Simultaneous Multi Channel Modulator Based on Software Defined Radio**
 
 ## Experience
 |              Job          | Affiliation   |                 Description                    |    Year     |
