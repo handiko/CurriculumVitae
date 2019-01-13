@@ -43,6 +43,14 @@ I am using this tool to document my porjects since min-2018. [GitHub profile](ht
 ## Education
 
 ## Experience
+|              Job                          |                 Description                    |    Year     |
+|:-----------------------------------------:|:---------------------------------------------- |:-----------:|
+|**Lab Technician**                         | Building gr-Merapi and gr-APRS application     | 2018        |
+ PT. Datto Asia Teknologi (Production House)  on GNU Radio platform for receiving and    
+                                              decoding telemetry from Mt. Merapi DIY
+|**Technical Team**                         | Help designing new antenna system as required. | 2016 - 2018 |
+ YE2A Contest Team                            Designing new hardware to manage radio hardware
+                                              automation.
 
 ## Contact Me
 If you interested in me, please contact me by e-mail : [handikogesang@gmail.com](mailto:handikogesang@gmail.com)
