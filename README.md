@@ -48,9 +48,9 @@ I am using this tool to document my porjects since mid-2018. [GitHub profile](ht
 ## Experience
 |              Job          | Affiliation   |                 Description                    |    Year     |
 |:-------------------------:|:-------------:|:---------------------------------------------- |:-----------:|
-|**Lab Technician**|PT. Datto Asia Teknologi (Production House)| Building gr-Merapi and gr-APRS application on GNU Radio platform for receiving and decoding telemetry from Mt. Merapi DIY | 2018 |                             
+|**Lab. Technician**|PT. Datto Asia Teknologi (Production House)| Building gr-Merapi and gr-APRS application on GNU Radio platform for receiving and decoding telemetry from Mt. Merapi DIY | 2018 |                             
 |**Technical Team**|YE2A Contest Team| Help designing new antenna system as required. Designing new hardware to manage radio hardware automation.| 2016 - 2018 |
-|**Lab. Technician**|Sensor and Telecontrolling System Lab|Create labworks modules, Instructor, and Coordinator. Also done several projects on Radio Telemetry|2013 - 2018|
+|**Lab. Assistant**|Sensor and Telecontrolling System Lab|Create labworks modules, Instructor, and Coordinator. Also done several projects on Radio Telemetry|2013 - 2018|
 |**Student Intern**|PT. Datto Asia Teknologi (Production House)|Evaluating VHF/UHF RF Path performances|2017|
 |**KKN-PPM-UGM 2015**|Universitas Gadjah Mada|Public service activity at Kec. Dukun, Muntilan, Central Java|2015|
 |**Chairman of committee**|Techno Antenna Fair 2013|Coordinating the committee to host the 2013 - Techno Antenna Fair Competition|2013|
