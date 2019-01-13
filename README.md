@@ -26,6 +26,12 @@ I learn this skill mainly for rapid prototyping and to built an SDR application 
 * gr-Merapi, an SDR application on GNU Radio platform for receiving and decoding Mt. Merapi telemetry: [GitHub page](https://github.com/handiko/gr-Merapi)
 * gr-APRS, an SDR application on GNU Radio for receiving and decoding APRS packets: [GitHub page](https://github.com/handiko/gr-Merapi)
 
+**Antenna Design and Simulation**
+I learn this skill mainly for supporting the projects above and as a part of my hobby. Several of them are written as articles:
+* How to match an antenna: [published here](https://labsdl.wordpress.com/2017/11/17/matching-an-antenna/)
+* Inverted-V versus Vertical Antenna: [published here](https://www.ybdxc.net/2017/11/06/inverted-vee-versus-vertical-antenna-for-dx-contact/) or [here](https://labsdl.wordpress.com/2017/11/06/inverted-vee-versus-vertical-antenna-for-dx-contact/)
+* How to get a 50 Ohm match on your vertical antenna: [published here](https://www.ybdxc.net/2017/11/09/overload-your-vertical-antenna/) or [here](https://labsdl.wordpress.com/2017/11/09/overload-your-vertical-antenna-2nd-part-of-the-series/)
+* 2 x 2 elements vertical array: [published here](https://labsdl.wordpress.com/2017/11/19/40-m-band-vertical-on-steroids/)
 
 ## Education
 
