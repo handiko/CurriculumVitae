@@ -56,4 +56,4 @@ I am using this tool to document my porjects since min-2018. [GitHub profile](ht
 |**Chairman of committee**|Techno Antenna Fair 2013|Coordinating the committee to host the 2013 - Techno Antenna Fair Competition|2013|
 
 ## Contact Me
-If you interested in me, please contact me by e-mail : [handikogesang@gmail.com](mailto:handikogesang@gmail.com)
+If you are interested in me, please contact me by e-mail : [handikogesang@gmail.com](mailto:handikogesang@gmail.com)
