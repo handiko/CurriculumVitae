@@ -11,7 +11,7 @@ Currently, I am looking for a great team who do a lot of development or research
 I learn this skill mainly by autodidact and through the instrumentation study group. I started this skill on the Atmel AVR microcontrollers using CV-AVR and already migrated to the Arduino platform by now. Few of my projects which using Atmel AVR microcontrollers:
 * APRS Tracker using Arduino UNO & DRA818V VHF Radio Module: [GitHub page](https://handiko.github.io/Arduino-APRS/)
 * Re-flashing JDY-08 Bluetooth 4.0 module with HM-10 firmware: [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
-* iBeacon using a JDY-08 Bluetooth 4.0 module:
+* iBeacon using a JDY-08 Bluetooth 4.0 module: [GitHub page](https://handiko.github.io/iBeacon/)
 
 ### **RF Telemetry & Hardware Electronics**
 I learn this skill while I am included in Telemetry study group. I am comfortably working on VHF and UHF radio spectrum and also using HF spectrum as a part of my hobby. Few of my projects:
@@ -47,8 +47,9 @@ I am using this tool since mid-2018 to document my porjects. [GitHub profile](ht
 |:-------------------------:|:-------------:|:---------------------------------------------- |:-----------:|
 |**Lab. Technician**|PT. Datto Asia Teknologi (Production House)| Building gr-Merapi and gr-APRS application on GNU Radio platform for receiving and decoding telemetry from Mt. Merapi DIY | 2018 |                             
 |**Technical Team**|YE2A Contest Team| Help designing new antenna system as required. Designing new hardware to manage radio hardware automation.| 2016 - 2018 |
-|**Lab. Assistant**|Sensor and Telecontrolling System Lab|Create labworks modules, Instructor, and Coordinator. Also done several projects on Radio Telemetry|2013 - 2018|
+|**Lab. Assistant**|Sensor and Telecontrolling Systems Lab.|Create labworks modules, Instructor, and Coordinator. Also done several projects on Radio Telemetry|2013 - 2018|
 |**Student Intern**|PT. Datto Asia Teknologi (Production House)|Evaluating VHF/UHF RF Path performances|2017|
+|**Researh Team - RHAN-122B Test Rocket**|Sensor and Telecontrolling Systems Lab.|Building telemetry receiver system for recording the telemetry signal from RHAN-122B Test Rocket using BladeRF SDR and GNU Radio. This event is a joint research of LAPAN, PT. Pindad, Kemenristekdikti, TNI-AD, and Universitas Gadjah Mada.|2016|
 |**KKN-PPM-UGM 2015**|Universitas Gadjah Mada|Public service activity at Kec. Dukun, Muntilan, Central Java|2015|
 |**Chairman of committee**|Techno Antenna Fair 2013|Coordinating the committee to host the 2013 - Techno Antenna Fair Competition|2013|
 
