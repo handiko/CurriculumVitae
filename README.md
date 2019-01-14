@@ -35,7 +35,7 @@ I learn this skill mainly for supporting the projects above and as a part of my 
 * 2 x 2 elements vertical array: [published here](https://labsdl.wordpress.com/2017/11/19/40-m-band-vertical-on-steroids/)
 
 ### **GitHub**
-I am using this tool to document my porjects since mid-2018. [GitHub profile](https://github.com/handiko)
+I am using this tool since mid-2018 to document my porjects. [GitHub profile](https://github.com/handiko)
 
 ## Education
 **Bachelor of Engineering, Engineering Physics, Universitas Gadjah Mada**
