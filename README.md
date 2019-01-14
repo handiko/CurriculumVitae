@@ -9,22 +9,22 @@ Currently, I am looking for a great team who do a lot of development or research
 ## Skills
 ### **Atmel AVR Microcontrollers & Arduino**
 I learn this skill mainly by autodidact and through the instrumentation study group. I started this skill on the Atmel AVR microcontrollers using CV-AVR and already migrated to the Arduino platform by now. Few of my projects which using Atmel AVR microcontrollers:
-* APRS Tracker using Arduino UNO & DRA818V VHF Radio Module: [GitHub page](https://github.com/handiko/Arduino-APRS)
-* Re-flashing JDY-08 Bluetooth 4.0 module with HM-10 firmware: [GitHub page](https://github.com/handiko/JDY-08-Reflash)
+* APRS Tracker using Arduino UNO & DRA818V VHF Radio Module: [GitHub page](https://handiko.github.io/Arduino-APRS/)
+* Re-flashing JDY-08 Bluetooth 4.0 module with HM-10 firmware: [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
 * iBeacon using a JDY-08 Bluetooth 4.0 module:
 
 ### **RF Telemetry & Hardware Electronics**
 I learn this skill while I am included in Telemetry study group. I am comfortably working on VHF and UHF radio spectrum and also using HF spectrum as a part of my hobby. Few of my projects:
-* VHF Telemetry Shield for Arduino UNO: [GitHub page](https://github.com/handiko/Dorji-TX-Shield)
-* VHF Low Noise Amplifier with a Band Pass Filter: [GitHub page](https://github.com/handiko/VHF-LNA)
-* 4 elements VHF antenna: [GitHub page](https://github.com/handiko/Yagi-4E-144)
+* VHF Telemetry Shield for Arduino UNO: [GitHub page](https://handiko.github.io/Dorji-TX-Shield/)
+* VHF Low Noise Amplifier with a Band Pass Filter: [GitHub page](https://handiko.github.io/VHF-LNA/)
+* 4 elements VHF antenna: [GitHub page](https://handiko.github.io/Yagi-4E-144/)
 * I contribute to the YE2A Contest Team (Grobogan, Central Java) as a technical team and operator.
 
 ### **Software Defined Radio (SDR) & GNU Radio**
 I learn this skill mainly for rapid prototyping and to built an SDR application on receiving telemetry for Sensor and Telecontrolling System Lab. Few of my projects:
 * Receiving and demodulating weather image transmission from a Russian satellite using a low cost SDR dongle: [published here](https://www.hackster.io/handiko/receiving-russian-s-satellite-weather-image-from-space-d4618d) or [here](https://labsdl.wordpress.com/2018/09/17/receiving-qpsk-signal-from-space/)
 * Receiving Radio Transmission from Seoul - South Korea using a Low Cost SDR dongle and GNU Radio: [published here](https://labsdl.wordpress.com/2018/08/20/receiving-post-processing-hlg-seoul-radio-using-rtl-sdr-and-gnu-radio/)
-* gr-Merapi, an SDR application on GNU Radio platform for receiving and decoding Mt. Merapi telemetry: [GitHub page](https://github.com/handiko/gr-Merapi)
+* gr-Merapi, an SDR application on GNU Radio platform for receiving and decoding Mt. Merapi telemetry: [GitHub page](https://handiko.github.io/gr-Merapi/)
 * gr-APRS, an SDR application on GNU Radio for receiving and decoding APRS packets: [GitHub page](https://github.com/handiko/gr-Merapi)
 
 ### **Antenna Design and Simulation**
