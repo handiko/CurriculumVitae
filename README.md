@@ -8,8 +8,9 @@ Currently, I am looking for a great team who do a lot of development or research
 
 ## Skills
 ### **Atmel AVR Microcontrollers & Arduino**
-I learn this skill mainly by autodidact and through the instrumentation study group. I started this skill on the Atmel AVR microcontrollers using CV-AVR and already migrated to the Arduino platform by now. Few of my projects which using Atmel AVR microcontrollers:
+I learn this skill mainly by autodidact during my activity in the Telemetry study group. I started this skill on the Atmel AVR microcontrollers using CV-AVR and already migrated to the Arduino environment by now. Few of my projects which using Atmel AVR microcontrollers:
 * APRS Tracker using Arduino UNO & DRA818V VHF Radio Module: [GitHub page](https://handiko.github.io/Arduino-APRS/)
+* Arduino RFpainter - Abusing FMCW to Paint Cats on Spectrogram: [GitHub page](https://handiko.github.io/Arduino-RFpainter/)
 * Re-flashing JDY-08 Bluetooth 4.0 module with HM-10 firmware: [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
 * iBeacon using a JDY-08 Bluetooth 4.0 module: [GitHub page](https://handiko.github.io/iBeacon/)
 
@@ -18,6 +19,7 @@ I learn this skill while I am included in Telemetry study group. I am comfortabl
 * VHF Telemetry Shield for Arduino UNO: [GitHub page](https://handiko.github.io/Dorji-TX-Shield/)
 * VHF Low Noise Amplifier with a Band Pass Filter: [GitHub page](https://handiko.github.io/VHF-LNA/)
 * 4 elements VHF antenna: [GitHub page](https://handiko.github.io/Yagi-4E-144/)
+* ESP-12E/F Eagle PCB Library: [GitHub page](https://handiko.github.io/ESP-12EF-Eagle-Library/)
 * I contribute to the YE2A Contest Team (Grobogan, Central Java) as a technical team and operator.
 
 ### **Software Defined Radio (SDR) & GNU Radio**
@@ -26,6 +28,7 @@ I learn this skill mainly for rapid prototyping and to built an SDR application 
 * Receiving Radio Transmission from Seoul - South Korea using a Low Cost SDR dongle and GNU Radio: [published here](https://labsdl.wordpress.com/2018/08/20/receiving-post-processing-hlg-seoul-radio-using-rtl-sdr-and-gnu-radio/)
 * gr-Merapi, an SDR application on GNU Radio platform for receiving and decoding Mt. Merapi telemetry: [GitHub page](https://handiko.github.io/gr-Merapi/)
 * gr-APRS, an SDR application on GNU Radio for receiving and decoding APRS packets: [GitHub page](https://handiko.github.io/gr-APRS/)
+* How to Stream the Audio Out from GNU Radio into VLC Media Player: [GitHub page](https://handiko.github.io/RTL-FM-VLC/)
 
 ### **Antenna Design and Simulation**
 I learn this skill mainly for supporting the projects above and as a part of my hobby. Several of them are written as articles:
