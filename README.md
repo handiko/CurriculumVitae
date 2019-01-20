@@ -11,8 +11,8 @@ Currently, I am looking for a great team who do a lot of development or research
 I learn this skill mainly by autodidact during my activity in the Telemetry study group. I started this skill on the Atmel AVR microcontrollers using CV-AVR and already migrated to the Arduino environment by now. Few of my projects which using Atmel AVR microcontrollers:
 * APRS Tracker using Arduino UNO & DRA818V VHF Radio Module: [GitHub page](https://handiko.github.io/Arduino-APRS/)
 * Arduino RFpainter - Abusing FMCW to Paint Cats on Spectrogram: [GitHub page](https://handiko.github.io/Arduino-RFpainter/)
-* Re-flashing JDY-08 Bluetooth 4.0 module with HM-10 firmware: [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
-* iBeacon using a JDY-08 Bluetooth 4.0 module: [GitHub page](https://handiko.github.io/iBeacon/)
+* Re-flashing JDY-08 Bluetooth module with HM-10 firmware: [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
+* iBeacon using a JDY-08 Bluetooth module: [GitHub page](https://handiko.github.io/iBeacon/)
 
 ### **RF Telemetry & Hardware Electronics**
 I learn this skill while I am included in Telemetry study group. I am comfortably working on VHF and UHF radio spectrum and also using HF spectrum as a part of my hobby. Few of my projects:
@@ -47,7 +47,7 @@ I am using this tool since mid-2018 to document my porjects. [GitHub profile](ht
 
 ## Experience
 |              Job          | Affiliation   |                 Description                    |    Year     |
-|:-------------------------:|:-------------:|:---------------------------------------------- |:-----------:|
+|:-------------------------:|:-------------:|:----------------------------------------------:|:-----------:|
 |**Lab. Technician**|PT. Datto Asia Teknologi (Production House)| Building gr-Merapi and gr-APRS application on GNU Radio platform for receiving and decoding telemetry from Mt. Merapi DIY | 2018 |                             
 |**Technical Team**|YE2A Contest Team| Help designing new antenna system as required. Designing new hardware to manage radio hardware automation.| 2016 - 2018 |
 |**Lab. Assistant**|Sensor and Telecontrolling Systems Lab.|Create labworks modules, Instructor, and Coordinator. Also done several projects on Radio Telemetry|2013 - 2018|
