@@ -13,6 +13,7 @@ I learn this skill mainly by autodidact during my activity in the Telemetry stud
 * Arduino RFpainter - Abusing FMCW to Paint Cats on Spectrogram: [GitHub page](https://handiko.github.io/Arduino-RFpainter/)
 * Re-flashing JDY-08 Bluetooth module with HM-10 firmware: [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
 * iBeacon using a JDY-08 Bluetooth module: [GitHub page](https://handiko.github.io/iBeacon/)
+* GPS GPRMC Parser Library for Arduino: [GitHub page](https://handiko.github.io/MyGPS/)
 
 ### **RF Telemetry & Hardware Electronics**
 I learn this skill while I am included in Telemetry study group. I am comfortably working on VHF and UHF radio spectrum and also using HF spectrum as a part of my hobby. Few of my projects:
