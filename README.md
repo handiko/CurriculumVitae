@@ -10,10 +10,11 @@ Currently, I am looking for a great team who do a lot of development or research
 ### **Atmel AVR Microcontrollers & Arduino**
 I learn this skill mainly by autodidact during my activity in the Telemetry study group. I started this skill on the Atmel AVR microcontrollers using CV-AVR and already migrated to the Arduino environment by now. Few of my projects which using Atmel AVR microcontrollers:
 * APRS Tracker using Arduino UNO & DRA818V VHF Radio Module: [GitHub page](https://handiko.github.io/Arduino-APRS/)
-* Arduino RFpainter - Abusing FMCW to Paint Cats on Spectrogram: [GitHub page](https://handiko.github.io/Arduino-RFpainter/)
+* Arduino RFpainter - Abusing FMCW to paint cats on spectrogram: [GitHub page](https://handiko.github.io/Arduino-RFpainter/)
 * Re-flashing JDY-08 Bluetooth module with HM-10 firmware: [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
 * iBeacon using a JDY-08 Bluetooth module: [GitHub page](https://handiko.github.io/iBeacon/)
-* GPS GPRMC Parser Library for Arduino: [GitHub page](https://handiko.github.io/MyGPS/)
+* GPS GPRMC parser library for Arduino: [GitHub page](https://handiko.github.io/MyGPS/)
+* AD9851 DDS module controller library for Arduino: [GitHub page](https://github.com/handiko/AD9851)
 
 ### **RF Telemetry & Hardware Electronics**
 I learn this skill while I am included in Telemetry study group. I am comfortably working on VHF and UHF radio spectrum and also using HF spectrum as a part of my hobby. Few of my projects:
