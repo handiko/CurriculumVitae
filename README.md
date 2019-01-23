@@ -30,7 +30,7 @@ I learn this skill mainly for rapid prototyping and to built an SDR application 
 * Receiving Radio Transmission from Seoul - South Korea using a Low Cost SDR dongle and GNU Radio: [published here](https://labsdl.wordpress.com/2018/08/20/receiving-post-processing-hlg-seoul-radio-using-rtl-sdr-and-gnu-radio/)
 * gr-Merapi, an SDR application on GNU Radio platform for receiving and decoding Mt. Merapi telemetry: [GitHub page](https://handiko.github.io/gr-Merapi/)
 * gr-APRS, an SDR application on GNU Radio for receiving and decoding APRS packets: [GitHub page](https://handiko.github.io/gr-APRS/)
-* How to Stream the Audio Out from GNU Radio into VLC Media Player: [GitHub page](https://handiko.github.io/RTL-FM-VLC/)
+* How to stream the audio out from GNU Radio into VLC Media Player: [GitHub page](https://handiko.github.io/RTL-FM-VLC/)
 
 ### **Antenna Design and Simulation**
 I learn this skill mainly for supporting the projects above and as a part of my hobby. Several of them are written as articles:
