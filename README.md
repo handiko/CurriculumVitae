@@ -14,7 +14,7 @@ I learn this skill mainly by autodidact during my activity in the Telemetry stud
 * Re-flashing JDY-08 Bluetooth module with HM-10 firmware: [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
 * iBeacon using a JDY-08 Bluetooth module: [GitHub page](https://handiko.github.io/iBeacon/)
 * GPS GPRMC parser library for Arduino: [GitHub page](https://handiko.github.io/MyGPS/)
-* AD9851 DDS module controller library for Arduino: [GitHub page](https://github.com/handiko/AD9851)
+* AD9851 DDS module controller library for Arduino: [GitHub page](https://handiko.github.io/AD9851)
 
 ### **RF Telemetry & Hardware Electronics**
 I learn this skill while I am included in Telemetry study group. I am comfortably working on VHF and UHF radio spectrum and also using HF spectrum as a part of my hobby. Few of my projects:
