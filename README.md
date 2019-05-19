@@ -8,7 +8,7 @@ Currently, I am looking for a great team who do a lot of development or research
 
 ## Skills
 ### **Arduino & tmel AVR Microcontrollers**
-I learn this skill mainly by autodidact during my activity in the Telemetry study group. I started this skill on the Atmel AVR microcontrollers using CV-AVR and already migrated to the Arduino environment by now. Few of my projects which using Atmel AVR microcontrollers:
+I learn this skill mainly by autodidact during my activity in the Telemetry study group. I started this skill on the Atmel AVR microcontrollers using CV-AVR and already migrated to the Arduino environment by now. Few of my projects which using Arduino or Atmel AVR microcontrollers:
 * APRS Tracker using Arduino UNO & DRA818V VHF Radio Module: [GitHub page](https://handiko.github.io/Arduino-APRS/)
 * Arduino RFpainter - Abusing FMCW to paint cats on spectrogram: [GitHub page](https://handiko.github.io/Arduino-RFpainter/)
 * ESP12 RF Jammer with MQTT - A Simple Implementation of ESP12 & AD9851 DDS Module RF Jammer which can be Controlled over the Internet: [GitHub page](https://handiko.github.io/ESP12-MQTT-RF-Jammer/)
