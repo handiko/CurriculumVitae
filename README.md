@@ -11,6 +11,7 @@ Currently, I am looking for a great team who do a lot of development or research
 I learn this skill mainly by autodidact during my activity in the Telemetry study group. I started this skill on the Atmel AVR microcontrollers using CV-AVR and already migrated to the Arduino environment by now. Few of my projects which using Atmel AVR microcontrollers:
 * APRS Tracker using Arduino UNO & DRA818V VHF Radio Module: [GitHub page](https://handiko.github.io/Arduino-APRS/)
 * Arduino RFpainter - Abusing FMCW to paint cats on spectrogram: [GitHub page](https://handiko.github.io/Arduino-RFpainter/)
+* ESP12 RF Jammer with MQTT - A Simple Implementation of ESP12 & AD9851 DDS Module RF Jammer which can be Controlled over the Internet: [GitHub page](https://handiko.github.io/ESP12-MQTT-RF-Jammer/)
 * ESP12 MQTT IoT Demo - A Very Simple ESP12 Demonstration for Sending and Receiving Data using MQTT Protocol: [GitHub page](https://handiko.github.io/ESP12-MQTT-IoT-Demo/)
 * Re-flashing JDY-08 Bluetooth module with HM-10 firmware: [GitHub page](https://handiko.github.io/JDY-08-Reflash/)
 * iBeacon using a JDY-08 Bluetooth module: [GitHub page](https://handiko.github.io/iBeacon/)
